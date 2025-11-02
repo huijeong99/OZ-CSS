@@ -1,0 +1,34 @@
+*{
+    text-align: center;
+}
+
+html{
+    background-color: mediumaquamarine;
+}
+
+body{
+    width: 640px;
+    margin:auto;
+}
+
+h1{
+    font-size: 48px;
+    font-family:'Times New Roman', Times, serif;
+    color:darkcyan;
+}
+
+h2{
+    font-family:'Times New Roman', Times, serif;
+    color:darkslategray;
+}
+
+img{
+    width: 300px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+p{
+    font-size: 1.2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
